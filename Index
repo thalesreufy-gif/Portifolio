@@ -1,0 +1,22 @@
+<html lang="pt-BR"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mensagem enviada | Thales S. Ribeiro</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="css/css2_family_poppins_wght_400_500_600_700_800_display_swap" rel="stylesheet">
+    
+  <script src="js/recordconsoleevents.js"></script><link rel="stylesheet" href="css/inline_styles.css"></head>
+  <body>
+    <main class="card">
+      <span class="eyebrow">Contato enviado</span>
+      <h1>Mensagem enviada com <span>sucesso</span>.</h1>
+      <p>
+        Obrigado pelo contato. Sua mensagem foi enviada corretamente e retornarei assim que
+        possível.
+      </p>
+      <a href="index.html" class="btn">Voltar ao portfólio</a>
+    </main>
+  
+
+</body></html>
