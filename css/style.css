@@ -1644,20 +1644,9 @@ span {
   }
   21%,
   40% {
-    content: "Dev Front-End";
-  }
-  41%,
-  60% {
-    content: "Dev Full Stack";
-  }
-  61%,
-  80% {
-    content: "Designer Gráfico";
-  }
-  81%,
-  100% {
     content: "Customer Support Specialist";
   }
+  
 }
 
 @keyframes heroTyping {
